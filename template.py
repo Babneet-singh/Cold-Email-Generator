@@ -10,9 +10,10 @@ project_name = 'GenAI'
 list_of_files=[
     ".github/workflows/.gitkeep",
     "requirements.txt",
-    "setup.py",
     "research/trials.ipynb",
-    "templates/index.html",
+    "app.py",
+    "chains.py",
+
 
 
 ]
