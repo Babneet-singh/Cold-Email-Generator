@@ -1,2 +1,5 @@
 langchain
-lanchain-groq
+langchain-groq
+chromadb
+pandas
+streamlit
